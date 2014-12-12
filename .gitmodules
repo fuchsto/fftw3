@@ -1,0 +1,4 @@
+[submodule "embb"]
+	path = embb
+	url = https://fuchsto@github.com/fuchsto/embb.git
+	branch = fftw
